@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\pre-dexed\debug\classes-45120f831e6087933e5aa06f88e54361fc471078.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\pre-dexed\debug\classes-5b62980c7d98f6d8ec0d8a68e3b40dc82968ef09.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9a556d17638c7d8991427a121def970f2828f718.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tobias\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Tobias\AndroidStudioProjects\Compass\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-71dd2e395a145cb8d76fed466a9cb47ca9b24094.jar" />
+    </item>
+
+</items>
